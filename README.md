@@ -1,4 +1,4 @@
-![MasterHead](https://c.tenor.com/_zbsJOBoVOEAAAAC/banner.gif)
+![MasterHead](https://www.indiatoday.in/education-today/news/story/lpu-listed-among-worlds-top-universities-alongside-harvard-and-oxford-2386289-2023-05-30)
 <h1 align="center">Hi 👋, I'm Dependra Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
